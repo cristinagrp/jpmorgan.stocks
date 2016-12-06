@@ -1,5 +1,7 @@
 "# jpmorgan.stocks" 
 
+Author: Cristina Groapa
+
 Notes/Future improvements
 * Thread safety (add transaction/calculate formulas)
 * Make number of decimals configurable
